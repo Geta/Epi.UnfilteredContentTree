@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+    <language name="English" id="en">
+        <geta>
+            <components>
+                <unfilteredcontenttree>
+                    <title>All content</title>
+                </unfilteredcontenttree>
+            </components>
+        </geta>
+    </language>
+    <language name="Swedish" id="sv">
+        <geta>
+            <components>
+                <unfilteredcontenttree>
+                    <title>Allt innehåll</title>
+                </unfilteredcontenttree>
+            </components>
+        </geta>
+    </language>
+    <language name="Norwegian" id="no">
+        <geta>
+            <components>
+                <unfilteredcontenttree>
+                    <title>Alt innhold</title>
+                </unfilteredcontenttree>
+            </components>
+        </geta>
+    </language>
+</languages>
