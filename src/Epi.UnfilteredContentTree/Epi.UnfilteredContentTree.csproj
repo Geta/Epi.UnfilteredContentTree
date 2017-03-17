@@ -186,7 +186,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Geta.Epi.UnfilteredContentTree.xml" />
+    <Content Include="lang\Geta.Epi.UnfilteredContentTree.xml" />
     <Content Include="packages.config" />
     <Content Include="Geta.Epi.UnfilteredContentTree.nuspec" />
     <None Include="Web.Debug.config">
