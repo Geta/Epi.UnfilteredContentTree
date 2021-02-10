@@ -12,5 +12,6 @@
         <description>$description$</description>
         <copyright>Copyright © 2017 Geta</copyright>
         <tags>Episerver Unfiltered Content Navigation</tags>
+        <repository type="git" url="URL" branch="BRANCH_NAME" commit="COMMIT" />
     </metadata>
 </package>
